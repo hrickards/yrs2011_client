@@ -1,0 +1,7 @@
+adapter:   mysql2
+database:  yrs2011_rails
+username:  deploy
+password:  NNRTJWKX1Z
+host:      127.0.0.1
+port:      3307
+reconnect: true
